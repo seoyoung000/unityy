@@ -1,7 +1,5 @@
-# 동양미래대학교 유니티과제
 ![숏프로젝트20232474장서영-이미지-0](https://github.com/user-attachments/assets/ec8a76fe-42d2-400c-b8fc-0431fc3e0a6e)
 
-유니티(Unity)를 이용한 간단한 프로젝트입니다.
 
 ![숏프로젝트20232474장서영-이미지-1](https://github.com/user-attachments/assets/263f00a2-ba47-4793-ae71-275a20dc294d)
 
